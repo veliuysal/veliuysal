@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veli UYSAL</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+<h3 align="center”>I’m from Türkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/0xveliuysal" target="blank"><img src="https://img.shields.io/twitter/follow/0xveliuysal?logo=twitter&style=for-the-badge" alt="0xveliuysal" /></a> </p>
 
