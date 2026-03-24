@@ -1,77 +1,22 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Veli UYSAL</h1>
+<h3 align="center”>I’m from Türkiye</h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=veliuysal)
-[![Linkedin Badge](https://img.shields.io/badge/-veliuysal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veliuysal/)](https://www.linkedin.com/in/veliuysal/)
-[![Twitter Badge](https://img.shields.io/badge/-@veliuysal-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/veliuysal)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fveliuysalr&screen_name=veliuysal)
-<br>
-[![Linting](https://github.com/veliuysal/veliuysal/actions/workflows/lint.yaml/badge.svg)](https://github.com/veliuysal/veliuysal/actions/workflows/lint.yaml)
-[![Spellcheck](https://github.com/veliuysal/veliuysal/actions/workflows/spellcheck.yaml/badge.svg)](https://github.com/veliuysal/veliuysal/actions/workflows/spellcheck.yaml)
-[![GitHub Activity](https://github.com/veliuysal/veliuysal/actions/workflows/update-activity.yaml/badge.svg)](https://github.com/veliuysal/veliuysal/actions/workflows/update-activity.yaml)
+<p align="left"> <a href="https://twitter.com/0xveliuysal" target="blank"><img src="https://img.shields.io/twitter/follow/0xveliuysal?logo=twitter&style=for-the-badge" alt="0xveliuysal" /></a> </p>
 
-## 📊 GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/veliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="veliuysal" height="30" width="40" /></a>
+<a href="https://twitter.com/0xveliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xveliuysal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veliuysal" height="30" width="40" /></a>
+<a href="https://instagram.com/uysalveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uysalveli" height="30" width="40" /></a>
+<a href="https://hashnode.com/@veliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@veliuysal" height="30" width="40" /></a>
+<a href="https://medium.com/@veliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@veliuysal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@veliuysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@veliuysal" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api?username=veliuysal&count_private=true&show_icons=true&include_all_commits=true" alt="Veli Uysal's GitHub stats" />
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veliuysal&layout=compact&langs_count=8" alt="Veli Uysal's Top Langs" />
-  </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veliuysal&show_icons=true&locale=en" alt="veliuysal" /></p>
 
-## 🔧 Favorite Technologies & Tools
-
-**Operating Systems**<br>
-![](https://img.shields.io/badge/-Debian-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/-MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
-<br>
-**Programming Languages**<br>
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/-GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-<br>
-**Frameworks and Libraries**<br>
-![](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=EA2845)
-![](https://img.shields.io/badge/-Odoo-informational?style=flat&logo=odoo&logoColor=white&color=714B67)
-![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
-![](https://img.shields.io/badge/-Material-informational?style=flat&logo=material-design&logoColor=white&color=757575)
-<br>
-**Hosting**<br>
-![](https://img.shields.io/badge/-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/-Amazon_Web_Services-informational?style=flat&logo=amazon-web-services&logoColor=white&color=232F3E)
-![](https://img.shields.io/badge/-OVH-informational?style=flat&logo=ovh&logoColor=white&color=123F6D)
-![](https://img.shields.io/badge/-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
-<br>
-**DevOps Tools**<br>
-![](https://img.shields.io/badge/-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
-![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
-![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-<br>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-<div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://github-readme-activity-graph.vercel.app/graph?username=veliuysal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="veliuysal's Activity Graph" /></a>
-</div>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-<div align="center">
-
-<a href = "https://github.com/veliuysal/veliuysal/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=veliuysal/veliuysal"/>
-</a>
-
-**Contribute to this repo and get shown here**
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veliuysal&" alt="veliuysal" /></p>
