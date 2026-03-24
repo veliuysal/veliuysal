@@ -59,16 +59,7 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#125](https://github.com/veliuysal/zentity/issues/125) in [veliuysal/zentity](https://github.com/veliuysal/zentity)
-2. 🎉 Merged PR [#124](https://github.com/veliuysal/zentity/pull/124) in [veliuysal/zentity](https://github.com/veliuysal/zentity)
-3. 💪 Opened PR [#124](https://github.com/veliuysal/zentity/pull/124) in [veliuysal/zentity](https://github.com/veliuysal/zentity)
-4. 🎉 Merged PR [#123](https://github.com/veliuysal/zentity/pull/123) in [veliuysal/zentity](https://github.com/veliuysal/zentity)
-5. 💪 Opened PR [#123](https://github.com/veliuysal/zentity/pull/123) in [veliuysal/zentity](https://github.com/veliuysal/zentity)
-6. 🎉 Merged PR [#8702](https://github.com/better-auth/better-auth/pull/8702) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ❌ Closed PR [#7524](https://github.com/better-auth/better-auth/pull/7524) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#122](https://github.com/better-auth/better-call/pull/122) in [better-auth/better-call](https://github.com/better-auth/better-call)
-9. 🎉 Merged PR [#10372](https://github.com/ZcashFoundation/zebra/pull/10372) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ℹ️ Assigned PR [#10372](https://github.com/ZcashFoundation/zebra/pull/10372) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+
 <!--END_SECTION:activity-->
 
 </details>
