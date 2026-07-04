@@ -17,11 +17,11 @@ I work across backend systems, cloud-native infrastructure, and blockchain ecosy
 - Based in Ankara, Turkiye
 - Building and teaching across Web2 and Web3 stacks
 - Writing technical notes at [veliuysal.dev](https://veliuysal.dev)
-- Exploring Move, Sui, Solidity, Rust, and blockchain infrastructure
+- Exploring Move, Solana, Arc, Solidity, Rust, and blockchain infrastructure
 
 ### Current Focus
 
-- Blockchain engineering with Solidity, Move, and Sui
+- Blockchain engineering with Solidity, Move, Solana, and Arc
 - Backend architecture with Node.js, Java, Spring, Rust, Axum, Actix, Tokio, and distributed services
 - Cloud and platform engineering with Docker, Kubernetes, AWS, Linux, Nginx, and CI/CD
 - Search, data, and messaging systems with PostgreSQL, MySQL, MongoDB, ScyllaDB, Redis, Elasticsearch, Solr, Fluvio, RabbitMQ, and GraphQL
@@ -80,7 +80,6 @@ I work across backend systems, cloud-native infrastructure, and blockchain ecosy
 ### Featured Work
 
 - [Solidity Workshop](https://github.com/veliuysal/Solidity-Workshop) - smart contract learning materials and examples
-- [Sui Move Workshop](https://github.com/veliuysal/sui-move-workshop) - Move language and Sui ecosystem practice
 - [thoth-ui](https://github.com/veliuysal/thoth-ui) - frontend UI work
 
 ### Writing
