@@ -12,12 +12,12 @@
 
 ### About
 
-I work across backend systems, cloud-native infrastructure, and blockchain ecosystems. My current writing and open-source focus is around Web3 development, Rust, Solidity, distributed systems, Move and practical software architecture.
+I work across backend systems, cloud-native infrastructure, and Blockchain ecosystems. My current writing and open-source focus is around Web3 development, Rust, Solidity, distributed systems, Move and practical software architecture.
 
 - Based in Ankara, Turkiye
 - Building and teaching across Web2 and Web3 stacks
 - Writing technical notes at [veliuysal.dev](https://veliuysal.dev)
-- Exploring Rust, Move, Solana, Arc, Solidity and blockchain infrastructure
+- Exploring Rust, Move, Solana, Arc, Solidity and Blockchain infrastructure
 
 ### Current Focus
 
@@ -85,7 +85,7 @@ I work across backend systems, cloud-native infrastructure, and blockchain ecosy
 
 ### Writing
 
-Recent topics from my blog include Move language fundamentals, Rust CLI development, blockchain consensus, network security, Java and developer tooling.
+Recent topics from my blog include Rust CLI development, Move language fundamentals, Solidity language fundamentals, Blockchain consensus, Blockchain development, network security, Java and developer tooling.
 
 ### Connect
 
