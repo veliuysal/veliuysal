@@ -12,19 +12,19 @@
 
 ### About
 
-I work across backend systems, cloud-native infrastructure, and blockchain ecosystems. My current writing and open-source focus is around Web3 development, Move, Solidity, Rust, distributed systems, and practical software architecture.
+I work across backend systems, cloud-native infrastructure, and blockchain ecosystems. My current writing and open-source focus is around Web3 development, Rust, Solidity, distributed systems, Move and practical software architecture.
 
 - Based in Ankara, Turkiye
 - Building and teaching across Web2 and Web3 stacks
 - Writing technical notes at [veliuysal.dev](https://veliuysal.dev)
-- Exploring Move, Solana, Arc, Solidity, Rust, and blockchain infrastructure
+- Exploring Rust, Move, Solana, Arc, Solidity and blockchain infrastructure
 
 ### Current Focus
 
-- Blockchain engineering with Solidity, Move, Solana, and Arc
-- Backend architecture with Node.js, Java, Spring, Rust, Axum, Actix, Tokio, and distributed services
-- Cloud and platform engineering with Docker, Kubernetes, AWS, Linux, Nginx, and CI/CD
-- Search, data, and messaging systems with PostgreSQL, MySQL, MongoDB, ScyllaDB, Redis, Elasticsearch, Solr, Fluvio, RabbitMQ, and GraphQL
+- Blockchain engineering with Rust, Solidity, Move, Solana and Arc
+- Backend architecture with Node.js, Java, Spring, Rust, Axum, Actix, Tokio and distributed services
+- Cloud and platform engineering with Docker, Kubernetes, AWS, Linux, Nginx, Kuasar and CI/CD
+- Search, data and messaging systems with PostgreSQL, MySQL, MongoDB, ScyllaDB, Redis, Elasticsearch, Solr, Fluvio, RabbitMQ and GraphQL
 
 ### Tech Stack
 
@@ -70,6 +70,7 @@ I work across backend systems, cloud-native infrastructure, and blockchain ecosy
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
+![Kuasar](https://img.shields.io/badge/Kuasar-111827?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=fff)
@@ -84,7 +85,7 @@ I work across backend systems, cloud-native infrastructure, and blockchain ecosy
 
 ### Writing
 
-Recent topics from my blog include Move language fundamentals, Rust CLI development, blockchain consensus, network security, Java, and developer tooling.
+Recent topics from my blog include Move language fundamentals, Rust CLI development, blockchain consensus, network security, Java and developer tooling.
 
 ### Connect
 
